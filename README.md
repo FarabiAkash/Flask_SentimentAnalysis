@@ -56,6 +56,14 @@ Or Install the 'requirements.txt' file
 ```
 python -m flask --app .\app.py run
 ```
+## Reference
+
+Offical Website
+
+- [Flask](http://flask.pocoo.org/)
+- [Flask-RESTful](https://flask-restful.readthedocs.io/en/latest/)
+- [Hugging Face- Setfit](https://huggingface.co/StatsGary/setfit-ft-sentinent-eval)
+
 
 
 
