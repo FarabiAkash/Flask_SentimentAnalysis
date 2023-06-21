@@ -45,7 +45,8 @@ Or Install the 'requirements.txt' file
 ```
 .
 |──────Flask_SentimentAnalysis/
-| |────app/
+| |────analysis.py/
+| |────app.py/
 ```
 
 
