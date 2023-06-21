@@ -34,6 +34,7 @@ The service takes a text as a POST request and returns a detailed analysis of th
 
 Install and update using pip:
 ```
+$   python -m venv vEnv_name
 $   pip install flask
 $   pip install flask-restful
 $   pip install setfit
