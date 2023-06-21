@@ -40,7 +40,12 @@ $   pip install setfit
 ```
 Or Install the 'requirements.txt' file 
 
-
+## Application Structure 
+```
+.
+|──────Flask_SentimentAnalysis/
+| |────app/
+```
 
 
 ### Executing program
