@@ -57,9 +57,6 @@ Or Install the 'requirements.txt' file
 python -m flask --app .\app.py run
 ```
 
-## Help
-
-Any advise for common problems or issues.
 
 
 ## Authors
